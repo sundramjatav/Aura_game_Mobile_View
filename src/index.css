@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: font;
+    src: url('../fontawesome-webfont.ttf');
+}
+
+/* *{
+    font-family: font;
+} */
+
+*{
+    scrollbar-width: none;
+}
